@@ -1,0 +1,41 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    color: rgb(10, 93, 177);
+    font-family: sans-serif;
+}
+.text {
+    font-family: sans-serif;
+}
+.flag {
+    width: 30vw;
+}
+.map {
+    width: 25vw
+}
+.castle {
+    width: 50vw
+}
+
+.nav {
+    list-style: none;
+    padding-left: 0;
+
+    width: 50vw;
+    margin: auto;
+    
+    text-align: center;   
+}
+.nav>li {
+    display: inline-block;
+    border-style: outset;
+}
+.nav>li>a {
+    text-decoration: none;
+    color: black;
+}
+.nav>li>a:hover {
+    background-color: rgb(125, 125, 125);
+}
