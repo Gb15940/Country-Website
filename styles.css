@@ -18,7 +18,9 @@ h1 {
 .castle {
     width: 50vw
 }
-
+.fact {
+    width: 50vw
+}
 .nav {
     list-style: none;
     padding-left: 0;
